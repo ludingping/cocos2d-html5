@@ -81,7 +81,7 @@ Kang-Hao Lu(Opera/Oupeng) @kennyluck    Optimize John Resig's inheritance patter
 
 Mark Henderson       @MarkEHenderson    Code review, LabelTTF and Scale9Sprite bug fix
 
-06wj                 @06wj         CCScheduler improvements
+06wj                 @06wj         CCScheduler improvement
 
 Cocos2d-x and cocos2d-html5 can not grow so fast without the active community.
 
